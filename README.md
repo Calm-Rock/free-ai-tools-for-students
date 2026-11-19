@@ -167,6 +167,7 @@
 | **Quizlet** | 🆓 Free Tier | Flashcard and study platform. Free: unlimited sets, learn mode, Quizlet Learn AI. | [quizlet.com](https://quizlet.com) |
 | **Otter.ai** | 💰 Student Discount | AI meeting and lecture transcription. Free: 300 mins/month. Education plan available. | [otter.ai/education](https://otter.ai/education) |
 | **Forest App** | 🆓 FREE | Focus app that gamifies the Pomodoro technique. Free on Android. | [forestapp.cc](https://www.forestapp.cc) |
+| **Glasp** | 🆓 FREE for students | Web and PDF highlighter with AI summaries. Glasp Student is free for verified university students who sign in with their university email. | [glasp.co/students](https://glasp.co/students) |
 
 ---
 
